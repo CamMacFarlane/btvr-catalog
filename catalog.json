@@ -1,7 +1,7 @@
 {
- "updated": "2026-11-02T02:53:32+00:00",
- "count": 210,
- "available_count": 205,
+ "updated": "2026-11-02T03:23:38+00:00",
+ "count": 209,
+ "available_count": 204,
  "films": [
   {
    "title": "12 Angry Men",
@@ -589,20 +589,6 @@
   },
   {
    "title": "Death Race 2050",
-   "director": "Roger Corman",
-   "year": 2017,
-   "genre1": "Action",
-   "genre2": "Remake",
-   "country": "USA",
-   "runtime": 93,
-   "poster": "https://image.tmdb.org/t/p/w342/5mI8yqZZBlZpvd0aT5YXbR8oEvT.jpg",
-   "available": true,
-   "collections": [
-    "Eureka"
-   ]
-  },
-  {
-   "title": "Death Race 2050",
    "director": "G.J. Echternkamp",
    "year": 2017,
    "genre1": "Action",
@@ -670,7 +656,7 @@
    ]
   },
   {
-   "title": "The Devil&#x27;s Honey",
+   "title": "The Devil's Honey",
    "director": "Lucio Fulci",
    "year": 1986,
    "genre1": "Thriller",
