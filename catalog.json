@@ -1,7 +1,7 @@
 {
- "updated": "2026-11-02T03:29:03+00:00",
- "count": 207,
- "available_count": 202,
+ "updated": "2026-11-02T06:46:54+00:00",
+ "count": 205,
+ "available_count": 200,
  "films": [
   {
    "title": "12 Angry Men",
@@ -1527,18 +1527,6 @@
    ]
   },
   {
-   "title": "The Lion in Winter",
-   "director": "Anthony Harvey",
-   "year": 1968,
-   "genre1": "Drama",
-   "genre2": "",
-   "country": "UK",
-   "runtime": 134,
-   "poster": "https://image.tmdb.org/t/p/w342/yMgJnZADJObzfjA70ygXJkjnrFX.jpg",
-   "available": true,
-   "collections": []
-  },
-  {
    "title": "The Living Daylights",
    "director": "John Glen",
    "year": 1987,
@@ -1748,7 +1736,7 @@
    "genre2": "",
    "country": "USA",
    "runtime": 93,
-   "poster": "https://image.tmdb.org/t/p/w342/rYvP6yMXCIVHnkVtwGaAXFmpzkB.jpg",
+   "poster": null,
    "available": true,
    "collections": []
   },
@@ -2203,18 +2191,6 @@
    "collections": [
     "Eureka"
    ]
-  },
-  {
-   "title": "Rio Bravo",
-   "director": "Howard Hawks",
-   "year": 1959,
-   "genre1": "Western",
-   "genre2": "Drama",
-   "country": "USA",
-   "runtime": 141,
-   "poster": "https://image.tmdb.org/t/p/w342/4gI4KKmoi0d3yfsF71YU3S0I5t8.jpg",
-   "available": true,
-   "collections": []
   },
   {
    "title": "Road House",
