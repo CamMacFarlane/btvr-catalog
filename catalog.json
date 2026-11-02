@@ -1,7 +1,7 @@
 {
- "updated": "2026-11-02T03:23:38+00:00",
- "count": 209,
- "available_count": 204,
+ "updated": "2026-11-02T03:29:03+00:00",
+ "count": 207,
+ "available_count": 202,
  "films": [
   {
    "title": "12 Angry Men",
@@ -1306,18 +1306,6 @@
    ]
   },
   {
-   "title": "It Follows",
-   "director": "David Robert Mitchell",
-   "year": 2015,
-   "genre1": "Horror",
-   "genre2": "Mystery",
-   "country": "USA",
-   "runtime": 101,
-   "poster": "https://image.tmdb.org/t/p/w342/iwnQ1JH1wdWrGYkgWySptJ5284A.jpg",
-   "available": true,
-   "collections": []
-  },
-  {
    "title": "Jeanne Dielman, 23 quai du Commerce, 1080 Bruxelles",
    "director": "Chantal Akerman",
    "year": 1983,
@@ -1412,20 +1400,6 @@
    "available": true,
    "collections": [
     "Criterion"
-   ]
-  },
-  {
-   "title": "Lady Vengeance",
-   "director": "Park Chan-wook",
-   "year": 2005,
-   "genre1": "Neo-Noir",
-   "genre2": "Revenge",
-   "country": "Korea",
-   "runtime": 115,
-   "poster": "https://image.tmdb.org/t/p/w342/ifcxaKfzNQ6W8uSLpnGo7AfiSL8.jpg",
-   "available": true,
-   "collections": [
-    "Eureka"
    ]
   },
   {
