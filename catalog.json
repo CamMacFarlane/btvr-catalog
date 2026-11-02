@@ -1,0 +1,2931 @@
+{
+ "updated": "2026-11-02T02:46:18+00:00",
+ "count": 211,
+ "available_count": 206,
+ "films": [
+  {
+   "title": "The &#x27;Burbs",
+   "director": "Joe Dante",
+   "year": 1989,
+   "genre1": "Comedy",
+   "genre2": "Horror",
+   "country": "USA",
+   "runtime": 102,
+   "poster": null,
+   "available": true,
+   "collections": []
+  },
+  {
+   "title": "12 Angry Men",
+   "director": "Sidney Lumet",
+   "year": 1957,
+   "genre1": "Drama",
+   "genre2": "",
+   "country": "USA",
+   "runtime": 97,
+   "poster": "https://image.tmdb.org/t/p/w342/zhG3vKWyDRaZYoaww1UVAi29T9h.jpg",
+   "available": true,
+   "collections": [
+    "Criterion"
+   ]
+  },
+  {
+   "title": "8½",
+   "director": "Federico Fellini",
+   "year": 1963,
+   "genre1": "Drama",
+   "genre2": "",
+   "country": "Italy",
+   "runtime": 139,
+   "poster": "https://image.tmdb.org/t/p/w342/23VIf7zNxAgaXwIlvzd3IvOd9sY.jpg",
+   "available": true,
+   "collections": [
+    "Criterion"
+   ]
+  },
+  {
+   "title": "9th Company",
+   "director": "Fyodor Bondarchuk",
+   "year": 2005,
+   "genre1": "Drama",
+   "genre2": "Action",
+   "country": "Russia",
+   "runtime": 139,
+   "poster": "https://image.tmdb.org/t/p/w342/yKPr5DbUZRPsdT1gOhUnTVsnplg.jpg",
+   "available": true,
+   "collections": [
+    "Eureka"
+   ]
+  },
+  {
+   "title": "Agnes Varda Collection",
+   "director": "Agnes Varda",
+   "year": 2019,
+   "genre1": "",
+   "genre2": "",
+   "country": "France",
+   "runtime": null,
+   "poster": null,
+   "available": false,
+   "collections": []
+  },
+  {
+   "title": "All That Breathes",
+   "director": "Shaunak Sen",
+   "year": 2022,
+   "genre1": "Documentary",
+   "genre2": "Drama",
+   "country": "India",
+   "runtime": 97,
+   "poster": "https://image.tmdb.org/t/p/w342/xgTyGlmOYnDwUugITwd8MY5AQ5F.jpg",
+   "available": true,
+   "collections": []
+  },
+  {
+   "title": "Amores Perros",
+   "director": "Alejandro G. Iñárritu",
+   "year": 2000,
+   "genre1": "Drama",
+   "genre2": "Thriller",
+   "country": "Mexico",
+   "runtime": 154,
+   "poster": "https://image.tmdb.org/t/p/w342/1lX74fPZsBoOyyE5fWL5xT7k9sV.jpg",
+   "available": true,
+   "collections": [
+    "Criterion"
+   ]
+  },
+  {
+   "title": "The Amusement Park",
+   "director": "George Romero",
+   "year": 1975,
+   "genre1": "Horror",
+   "genre2": "Drama",
+   "country": "USA",
+   "runtime": 54,
+   "poster": "https://image.tmdb.org/t/p/w342/djaD4Z1lw4Lk2ayCCe6sqy1bCY2.jpg",
+   "available": true,
+   "collections": [
+    "Eureka"
+   ]
+  },
+  {
+   "title": "Anora",
+   "director": "Sean Baker",
+   "year": 2024,
+   "genre1": "Drama",
+   "genre2": "Comedy",
+   "country": "USA",
+   "runtime": 139,
+   "poster": "https://image.tmdb.org/t/p/w342/cgXk2tNYhJZLXdBDO5DidAVzQ82.jpg",
+   "available": true,
+   "collections": [
+    "Criterion"
+   ]
+  },
+  {
+   "title": "At The Video Store",
+   "director": "James Westby",
+   "year": 2019,
+   "genre1": "Documentary",
+   "genre2": "",
+   "country": "USA",
+   "runtime": 72,
+   "poster": "https://image.tmdb.org/t/p/w342/dSM2YVSUbZISMJPdaIzsCvxfeBN.jpg",
+   "available": true,
+   "collections": [
+    "Eureka"
+   ]
+  },
+  {
+   "title": "Bad Boys",
+   "director": "Rick Rosenthal",
+   "year": 1983,
+   "genre1": "Crime",
+   "genre2": "Drama",
+   "country": "USA",
+   "runtime": 123,
+   "poster": "https://image.tmdb.org/t/p/w342/5nHZ3wflOifKJMUcTCw0isKhmCv.jpg",
+   "available": true,
+   "collections": []
+  },
+  {
+   "title": "Baraka",
+   "director": "Ron Fricke",
+   "year": 1992,
+   "genre1": "Non-Narrative",
+   "genre2": "Art",
+   "country": "USA",
+   "runtime": 97,
+   "poster": "https://image.tmdb.org/t/p/w342/ldEuJQ4z7zEvL7iXraESWBUfQcz.jpg",
+   "available": true,
+   "collections": [
+    "Eureka"
+   ]
+  },
+  {
+   "title": "Being There",
+   "director": "Hal Ashby",
+   "year": 1979,
+   "genre1": "Comedy",
+   "genre2": "Drama",
+   "country": "USA",
+   "runtime": 130,
+   "poster": "https://image.tmdb.org/t/p/w342/yFHi5wiCB45loSa1D1O6KAFMC3A.jpg",
+   "available": true,
+   "collections": [
+    "Criterion",
+    "Eureka"
+   ]
+  },
+  {
+   "title": "The Blade",
+   "director": "Tsui Hark",
+   "year": 1995,
+   "genre1": "Action",
+   "genre2": "Adventure",
+   "country": "Hong Kong",
+   "runtime": 105,
+   "poster": "https://image.tmdb.org/t/p/w342/jLH5MxiYXtGiS96rl13Rz8TIPaG.jpg",
+   "available": true,
+   "collections": []
+  },
+  {
+   "title": "Blazing Saddles",
+   "director": "Mel Brooks",
+   "year": 1974,
+   "genre1": "Western",
+   "genre2": "Comedy",
+   "country": "USA",
+   "runtime": 93,
+   "poster": "https://image.tmdb.org/t/p/w342/vNw1gOEDdYTDeNMuuq8OmiEHrfH.jpg",
+   "available": true,
+   "collections": [
+    "Eureka"
+   ]
+  },
+  {
+   "title": "The Blob",
+   "director": "Irvin S. Yeaworth Jr.",
+   "year": 1958,
+   "genre1": "Horror",
+   "genre2": "Sci-Fi",
+   "country": "USA",
+   "runtime": 82,
+   "poster": "https://image.tmdb.org/t/p/w342/ctOwn1Ibg3SjDG4WulvFvSH0PRT.jpg",
+   "available": true,
+   "collections": [
+    "Criterion"
+   ]
+  },
+  {
+   "title": "Blood Quantum",
+   "director": "Jeff Barnaby",
+   "year": 2019,
+   "genre1": "Horror",
+   "genre2": "",
+   "country": "Canada",
+   "runtime": 98,
+   "poster": "https://image.tmdb.org/t/p/w342/pQnfrys3nyOpUxktxK2CBnm7Rv8.jpg",
+   "available": true,
+   "collections": [
+    "Eureka"
+   ]
+  },
+  {
+   "title": "Blue Is The Warmest Colour",
+   "director": "Abdellatif Kechiche",
+   "year": 2013,
+   "genre1": "Romance",
+   "genre2": "Drama",
+   "country": "France",
+   "runtime": 180,
+   "poster": "https://image.tmdb.org/t/p/w342/kgUk1wti2cvrptIgUz0VTAtSF6w.jpg",
+   "available": true,
+   "collections": [
+    "Criterion",
+    "Eureka"
+   ]
+  },
+  {
+   "title": "Blue Velvet",
+   "director": "David Lynch",
+   "year": 1986,
+   "genre1": "Drama",
+   "genre2": "Neo-Noir",
+   "country": "USA",
+   "runtime": 120,
+   "poster": "https://image.tmdb.org/t/p/w342/6v1zYh2FKOYVddY5pCQhd4PO9uX.jpg",
+   "available": true,
+   "collections": [
+    "Criterion",
+    "Eureka"
+   ]
+  },
+  {
+   "title": "Bottle Rocket",
+   "director": "Wes Anderson",
+   "year": 1996,
+   "genre1": "Comedy",
+   "genre2": "Crime",
+   "country": "USA",
+   "runtime": 91,
+   "poster": "https://image.tmdb.org/t/p/w342/6E7mJ5wpzTFbYFbJvTzzZ8Til9C.jpg",
+   "available": true,
+   "collections": [
+    "Criterion"
+   ]
+  },
+  {
+   "title": "Branded To Kill",
+   "director": "Seijun Suzuki",
+   "year": 1967,
+   "genre1": "Crime",
+   "genre2": "Noir",
+   "country": "Japan",
+   "runtime": 91,
+   "poster": "https://image.tmdb.org/t/p/w342/asiSCq1SFrCV4gy7PJzw8c3m0yL.jpg",
+   "available": true,
+   "collections": [
+    "Criterion",
+    "Eureka"
+   ]
+  },
+  {
+   "title": "Brazil",
+   "director": "Terry Gilliam",
+   "year": 1985,
+   "genre1": "Comedy",
+   "genre2": "Sci-Fi",
+   "country": "UK",
+   "runtime": 143,
+   "poster": "https://image.tmdb.org/t/p/w342/2w09J0KUnVtJvqPYu8N63XjAyCR.jpg",
+   "available": true,
+   "collections": [
+    "Criterion",
+    "Eureka"
+   ]
+  },
+  {
+   "title": "A Brief History of Time",
+   "director": "Errol Morris",
+   "year": 1991,
+   "genre1": "Documentary",
+   "genre2": "",
+   "country": "Japan",
+   "runtime": 80,
+   "poster": "https://image.tmdb.org/t/p/w342/A3sVrDThz8Xthfq2EglWoypKEfU.jpg",
+   "available": true,
+   "collections": [
+    "Criterion"
+   ]
+  },
+  {
+   "title": "Bronson",
+   "director": "Nicolas Winding Refn",
+   "year": 2009,
+   "genre1": "Drama",
+   "genre2": "Action",
+   "country": "UK",
+   "runtime": 92,
+   "poster": "https://image.tmdb.org/t/p/w342/6diyyGIbBNiANsdIaCGtyv4IofR.jpg",
+   "available": true,
+   "collections": []
+  },
+  {
+   "title": "Burning",
+   "director": "Lee Chang-Dong",
+   "year": 2018,
+   "genre1": "Drama",
+   "genre2": "Mystery",
+   "country": "Korea",
+   "runtime": 148,
+   "poster": "https://image.tmdb.org/t/p/w342/kXiF80o74fE9gf3Utf9moAI7ar0.jpg",
+   "available": true,
+   "collections": [
+    "Criterion",
+    "Eureka"
+   ]
+  },
+  {
+   "title": "Cache / Hidden",
+   "director": "tbd",
+   "year": 2005,
+   "genre1": "Mystery",
+   "genre2": "Drama",
+   "country": "france",
+   "runtime": 109,
+   "poster": "https://image.tmdb.org/t/p/w342/vTzjRi0Uhy0tt3Rjw8SARZZJHlX.jpg",
+   "available": true,
+   "collections": []
+  },
+  {
+   "title": "Cade: The Tortured Crossing",
+   "director": "Neil Breen",
+   "year": 2023,
+   "genre1": "Fantasy",
+   "genre2": "Drama",
+   "country": "USA",
+   "runtime": 100,
+   "poster": "https://image.tmdb.org/t/p/w342/rgwlKEtg2Eyz1MEZm9JAXyhNwv2.jpg",
+   "available": true,
+   "collections": []
+  },
+  {
+   "title": "The Cannonball Run",
+   "director": "Hal Needham",
+   "year": 1981,
+   "genre1": "Comedy",
+   "genre2": "Action",
+   "country": "USA",
+   "runtime": 95,
+   "poster": "https://image.tmdb.org/t/p/w342/yDO1xRq4LOAv720xqJHHEVz5Sr9.jpg",
+   "available": true,
+   "collections": [
+    "Eureka"
+   ]
+  },
+  {
+   "title": "Carnal Knowledge",
+   "director": "Mike Nichols",
+   "year": 1971,
+   "genre1": "Drama",
+   "genre2": "Romance",
+   "country": "USA",
+   "runtime": 98,
+   "poster": "https://image.tmdb.org/t/p/w342/l7e1qP8Mq97W1Wg14FNnbz1OxmG.jpg",
+   "available": true,
+   "collections": [
+    "Criterion"
+   ]
+  },
+  {
+   "title": "The Celebration",
+   "director": "Thomas Vinterberg",
+   "year": 1998,
+   "genre1": "Comedy",
+   "genre2": "Drama",
+   "country": "Denmark",
+   "runtime": 101,
+   "poster": "https://image.tmdb.org/t/p/w342/2LRzNq41yrY8EjCnD1S8sCCPvKk.jpg",
+   "available": true,
+   "collections": [
+    "Criterion",
+    "Eureka"
+   ]
+  },
+  {
+   "title": "Chopping Mall",
+   "director": "Jim Wynorski",
+   "year": 1986,
+   "genre1": "Horror",
+   "genre2": "Sci-Fi",
+   "country": "USA",
+   "runtime": 77,
+   "poster": "https://image.tmdb.org/t/p/w342/ggHbJPYJsjiJnEwHi4xUyJxWpmS.jpg",
+   "available": true,
+   "collections": []
+  },
+  {
+   "title": "Citizen Kane",
+   "director": "Orson Welles",
+   "year": 1941,
+   "genre1": "Mystery",
+   "genre2": "Drama",
+   "country": "USA",
+   "runtime": 119,
+   "poster": "https://image.tmdb.org/t/p/w342/sav0jxhqiH0bPr2vZFU0Kjt2nZL.jpg",
+   "available": true,
+   "collections": [
+    "Criterion"
+   ]
+  },
+  {
+   "title": "Come And See",
+   "director": "Elem Klimov",
+   "year": 1985,
+   "genre1": "War",
+   "genre2": "Drama",
+   "country": "USSR",
+   "runtime": 142,
+   "poster": "https://image.tmdb.org/t/p/w342/qNbMsKVzigERgJUbwf8pKyZogpb.jpg",
+   "available": true,
+   "collections": [
+    "Criterion",
+    "Eureka"
+   ]
+  },
+  {
+   "title": "Con Air",
+   "director": "Simon West",
+   "year": 1997,
+   "genre1": "Crime",
+   "genre2": "Action",
+   "country": "USA",
+   "runtime": 116,
+   "poster": "https://image.tmdb.org/t/p/w342/kOKjgrEzGOP92rVQ6srA9jtp60l.jpg",
+   "available": true,
+   "collections": [
+    "Eureka"
+   ]
+  },
+  {
+   "title": "Cryptozoo",
+   "director": "Dash Shaw",
+   "year": 2021,
+   "genre1": "Cult",
+   "genre2": "Animated",
+   "country": "USA",
+   "runtime": 95,
+   "poster": "https://image.tmdb.org/t/p/w342/xABkUfBl7YG0Z2uIkYMMd5SjTum.jpg",
+   "available": false,
+   "collections": [
+    "Eureka"
+   ]
+  },
+  {
+   "title": "Cure",
+   "director": "Kiyoshi Kurosawa",
+   "year": 1997,
+   "genre1": "Horror",
+   "genre2": "Thriller",
+   "country": "Japan",
+   "runtime": 111,
+   "poster": "https://image.tmdb.org/t/p/w342/6hL8VFE4r0lX7fQKBBNqLNBKhcK.jpg",
+   "available": true,
+   "collections": [
+    "Criterion",
+    "Eureka"
+   ]
+  },
+  {
+   "title": "David Lynch The Art Life",
+   "director": "Rick Barnes and Olivia Neegaard-holm",
+   "year": 2016,
+   "genre1": "Documentary",
+   "genre2": "Art",
+   "country": "USA",
+   "runtime": 88,
+   "poster": "https://image.tmdb.org/t/p/w342/pgtQceTZKylB2B237t18h2pOXpE.jpg",
+   "available": true,
+   "collections": []
+  },
+  {
+   "title": "Dawn of the Dead",
+   "director": "Zack Snyder",
+   "year": 2004,
+   "genre1": "Horror",
+   "genre2": "Sci-Fi",
+   "country": "USA",
+   "runtime": 101,
+   "poster": "https://image.tmdb.org/t/p/w342/ttquyxStEEctzghtA2f4PUGprDr.jpg",
+   "available": true,
+   "collections": [
+    "Eureka"
+   ]
+  },
+  {
+   "title": "Dawn of the Dead",
+   "director": "Zack Snyder",
+   "year": 2004,
+   "genre1": "Horror",
+   "genre2": "Sci-Fi",
+   "country": "USA",
+   "runtime": 101,
+   "poster": "https://image.tmdb.org/t/p/w342/ttquyxStEEctzghtA2f4PUGprDr.jpg",
+   "available": true,
+   "collections": []
+  },
+  {
+   "title": "Dawn of the Dead",
+   "director": "Zack Snyder",
+   "year": 2004,
+   "genre1": "Horror",
+   "genre2": "Sci-Fi",
+   "country": "USA",
+   "runtime": 101,
+   "poster": "https://image.tmdb.org/t/p/w342/ttquyxStEEctzghtA2f4PUGprDr.jpg",
+   "available": true,
+   "collections": []
+  },
+  {
+   "title": "Dazed And Confused",
+   "director": "Richard Linklater",
+   "year": 1993,
+   "genre1": "Comedy",
+   "genre2": "Slice of Life",
+   "country": "USA",
+   "runtime": 102,
+   "poster": "https://image.tmdb.org/t/p/w342/msG9awbLhVZwv1Eh9Ge7SofMexW.jpg",
+   "available": true,
+   "collections": [
+    "Criterion",
+    "Eureka"
+   ]
+  },
+  {
+   "title": "Dead Man",
+   "director": "Jim Jarmusch",
+   "year": 1995,
+   "genre1": "Drama",
+   "genre2": "Fantasy",
+   "country": "USA",
+   "runtime": 122,
+   "poster": "https://image.tmdb.org/t/p/w342/jX3wGBVoYoAY3IixBpwYk1fjT4z.jpg",
+   "available": true,
+   "collections": [
+    "Criterion"
+   ]
+  },
+  {
+   "title": "Deadgirl",
+   "director": "Marcel Sarmiento, Gadi Harel",
+   "year": 2008,
+   "genre1": "Horror",
+   "genre2": "Thriller",
+   "country": "USA",
+   "runtime": 101,
+   "poster": "https://image.tmdb.org/t/p/w342/ff00BtvdnSHO8qoblBhiXmJKvCm.jpg",
+   "available": true,
+   "collections": []
+  },
+  {
+   "title": "Dear Kelly",
+   "director": "Andrew Callaghan",
+   "year": 2024,
+   "genre1": "Documentary",
+   "genre2": "",
+   "country": "USA",
+   "runtime": 90,
+   "poster": "https://image.tmdb.org/t/p/w342/dIO4M7fTAn4qt2rlbjeWwq0WJ6H.jpg",
+   "available": true,
+   "collections": []
+  },
+  {
+   "title": "Death Race 2050",
+   "director": "Roger Corman",
+   "year": 2017,
+   "genre1": "Action",
+   "genre2": "Remake",
+   "country": "USA",
+   "runtime": 93,
+   "poster": "https://image.tmdb.org/t/p/w342/5mI8yqZZBlZpvd0aT5YXbR8oEvT.jpg",
+   "available": true,
+   "collections": [
+    "Eureka"
+   ]
+  },
+  {
+   "title": "Death Race 2050",
+   "director": "G.J. Echternkamp",
+   "year": 2017,
+   "genre1": "Action",
+   "genre2": "Comedy",
+   "country": "USA",
+   "runtime": 93,
+   "poster": "https://image.tmdb.org/t/p/w342/5mI8yqZZBlZpvd0aT5YXbR8oEvT.jpg",
+   "available": true,
+   "collections": []
+  },
+  {
+   "title": "Demolition Man",
+   "director": "Marco Brambilla",
+   "year": 1993,
+   "genre1": "Sci-Fi",
+   "genre2": "Action",
+   "country": "USA",
+   "runtime": 115,
+   "poster": "https://image.tmdb.org/t/p/w342/dq6AmlVFo92PRuoLCcIyFdoRuxf.jpg",
+   "available": true,
+   "collections": [
+    "Eureka"
+   ]
+  },
+  {
+   "title": "The Departed",
+   "director": "Martin Scorsese",
+   "year": 2006,
+   "genre1": "Crime",
+   "genre2": "Thriller",
+   "country": "USA",
+   "runtime": 151,
+   "poster": "https://image.tmdb.org/t/p/w342/nT97ifVT2J1yMQmeq20Qblg61T.jpg",
+   "available": true,
+   "collections": [
+    "Eureka"
+   ]
+  },
+  {
+   "title": "Desperado",
+   "director": "Robert Rodriguez",
+   "year": 1995,
+   "genre1": "Western",
+   "genre2": "Action",
+   "country": "USA",
+   "runtime": 104,
+   "poster": "https://image.tmdb.org/t/p/w342/e3gwpBeXpvGZsxUya9zNym5QXrw.jpg",
+   "available": true,
+   "collections": [
+    "Eureka"
+   ]
+  },
+  {
+   "title": "Desperate Living",
+   "director": "John Waters",
+   "year": 1977,
+   "genre1": "Comedy",
+   "genre2": "Crime",
+   "country": "USA",
+   "runtime": 91,
+   "poster": "https://image.tmdb.org/t/p/w342/kqEZ1CbxtrXtpAT1jeYfo52um3s.jpg",
+   "available": true,
+   "collections": [
+    "Criterion"
+   ]
+  },
+  {
+   "title": "The Devil&#x27;s Honey",
+   "director": "Lucio Fulci",
+   "year": 1986,
+   "genre1": "Thriller",
+   "genre2": "Drama",
+   "country": "Italy",
+   "runtime": 83,
+   "poster": null,
+   "available": true,
+   "collections": []
+  },
+  {
+   "title": "The Devil's Rejects",
+   "director": "Rob Zombie",
+   "year": 2005,
+   "genre1": "Horror",
+   "genre2": "",
+   "country": "USA",
+   "runtime": 111,
+   "poster": "https://image.tmdb.org/t/p/w342/drZz4AuI7trq6BxlH9Xa4v4O0Pb.jpg",
+   "available": true,
+   "collections": [
+    "Eureka"
+   ]
+  },
+  {
+   "title": "Dheepan",
+   "director": "Jacques Audiard",
+   "year": 2015,
+   "genre1": "Crime",
+   "genre2": "Drama",
+   "country": "France",
+   "runtime": 115,
+   "poster": "https://image.tmdb.org/t/p/w342/80wJKQZYa9FHrxfaTVxXePmXni7.jpg",
+   "available": true,
+   "collections": [
+    "Criterion"
+   ]
+  },
+  {
+   "title": "Dinner In America",
+   "director": "tbd",
+   "year": 2024,
+   "genre1": "Documentary",
+   "genre2": "",
+   "country": "",
+   "runtime": null,
+   "poster": "https://image.tmdb.org/t/p/w342/t63UhnHaWQGcuE3pViuW3LSjBJj.jpg",
+   "available": true,
+   "collections": []
+  },
+  {
+   "title": "Dog Soldiers",
+   "director": "Neil Marshall",
+   "year": 2002,
+   "genre1": "Horror",
+   "genre2": "Action",
+   "country": "UK",
+   "runtime": 105,
+   "poster": "https://image.tmdb.org/t/p/w342/fYHUYWglzq8Ax0EaDWqg9emjL7T.jpg",
+   "available": true,
+   "collections": [
+    "Eureka"
+   ]
+  },
+  {
+   "title": "Donnie Darko",
+   "director": "Richard Kelly",
+   "year": 2001,
+   "genre1": "Fantasy",
+   "genre2": "Drama",
+   "country": "USA",
+   "runtime": 114,
+   "poster": "https://image.tmdb.org/t/p/w342/j2AtZFsflxiluaNtajMTI0Avm8C.jpg",
+   "available": true,
+   "collections": []
+  },
+  {
+   "title": "Double Indemnity",
+   "director": "Billy Wilder",
+   "year": 1944,
+   "genre1": "Noir",
+   "genre2": "Crime",
+   "country": "USA",
+   "runtime": 107,
+   "poster": "https://image.tmdb.org/t/p/w342/rVNYZZgfhwqVMMWlBmxOfWqnwCj.jpg",
+   "available": true,
+   "collections": [
+    "Criterion",
+    "Eureka"
+   ]
+  },
+  {
+   "title": "Dragged Across The Concrete",
+   "director": "S. Craig Zahler",
+   "year": 2018,
+   "genre1": "Action",
+   "genre2": "",
+   "country": "USA",
+   "runtime": 159,
+   "poster": "https://image.tmdb.org/t/p/w342/11wQX0gv1kW1cjXsMTnoKXxhaqk.jpg",
+   "available": true,
+   "collections": [
+    "Eureka"
+   ]
+  },
+  {
+   "title": "Dreams",
+   "director": "Akira Kurosawa",
+   "year": 1990,
+   "genre1": "Anthology",
+   "genre2": "Psychedelic",
+   "country": "Japan",
+   "runtime": 119,
+   "poster": "https://image.tmdb.org/t/p/w342/j0NQsYqnqvhTtBj7vhCa9iKT0NA.jpg",
+   "available": true,
+   "collections": [
+    "Criterion",
+    "Eureka"
+   ]
+  },
+  {
+   "title": "Dressed To Kill",
+   "director": "Brian De Palma",
+   "year": 1980,
+   "genre1": "Horror",
+   "genre2": "Thriller",
+   "country": "USA",
+   "runtime": 105,
+   "poster": "https://image.tmdb.org/t/p/w342/oy1m5dd44foNrxV8U9l6Walx82V.jpg",
+   "available": true,
+   "collections": [
+    "Criterion",
+    "Eureka"
+   ]
+  },
+  {
+   "title": "Enter The Void",
+   "director": "Gaspar Noé",
+   "year": 2009,
+   "genre1": "Art",
+   "genre2": "Drama",
+   "country": "Japan",
+   "runtime": 161,
+   "poster": "https://image.tmdb.org/t/p/w342/krKnsfvSJM1PL40tLicRhVQ6kuG.jpg",
+   "available": true,
+   "collections": [
+    "Eureka"
+   ]
+  },
+  {
+   "title": "Eraserhead",
+   "director": "David Lynch",
+   "year": 1977,
+   "genre1": "Horror",
+   "genre2": "Sci-Fi",
+   "country": "USA",
+   "runtime": 89,
+   "poster": "https://image.tmdb.org/t/p/w342/mxveW3mGVc0DzLdOmtkZsgd7c3B.jpg",
+   "available": true,
+   "collections": [
+    "Criterion"
+   ]
+  },
+  {
+   "title": "Escape from New York",
+   "director": "John Carpenter",
+   "year": 1981,
+   "genre1": "Action",
+   "genre2": "Thriller",
+   "country": "UK",
+   "runtime": 99,
+   "poster": "https://image.tmdb.org/t/p/w342/vH9llaphjAssRGi0k7e75tD40Ce.jpg",
+   "available": true,
+   "collections": []
+  },
+  {
+   "title": "The Essential Jaques Demy",
+   "director": "Misc",
+   "year": 2022,
+   "genre1": "",
+   "genre2": "",
+   "country": "France",
+   "runtime": null,
+   "poster": null,
+   "available": true,
+   "collections": [
+    "Criterion"
+   ]
+  },
+  {
+   "title": "Eyes Without a Face",
+   "director": "Georges Franju",
+   "year": 1960,
+   "genre1": "Drama",
+   "genre2": "Horror",
+   "country": "France",
+   "runtime": 84,
+   "poster": "https://image.tmdb.org/t/p/w342/8y7Z9Gvcq52uOlJlUWyn2epGGRd.jpg",
+   "available": true,
+   "collections": [
+    "Criterion"
+   ]
+  },
+  {
+   "title": "Fantastic Planet",
+   "director": "René Laloux",
+   "year": 1973,
+   "genre1": "Animated",
+   "genre2": "Psychedelic",
+   "country": "France",
+   "runtime": 72,
+   "poster": "https://image.tmdb.org/t/p/w342/prq0j1S0K07UjwLZLF6oMGflRUI.jpg",
+   "available": true,
+   "collections": [
+    "Criterion",
+    "Eureka"
+   ]
+  },
+  {
+   "title": "Farewell My Concubine",
+   "director": "Chen Kaige",
+   "year": 1993,
+   "genre1": "Drama",
+   "genre2": "",
+   "country": "China",
+   "runtime": 171,
+   "poster": "https://image.tmdb.org/t/p/w342/f54hNIiHNINw3JiUJB2XaQl5wCN.jpg",
+   "available": true,
+   "collections": [
+    "Criterion"
+   ]
+  },
+  {
+   "title": "Fateful Findings",
+   "director": "Neil Breen",
+   "year": 2012,
+   "genre1": "Drama",
+   "genre2": "Fantasy",
+   "country": "USA",
+   "runtime": 100,
+   "poster": "https://image.tmdb.org/t/p/w342/imTaWev7b4aDIC6WuNn9E1wJ4EB.jpg",
+   "available": true,
+   "collections": []
+  },
+  {
+   "title": "Fear And Loathing In Las Vegas",
+   "director": "Terry Gilliam",
+   "year": 1998,
+   "genre1": "Comedy",
+   "genre2": "Psychedelic",
+   "country": "USA",
+   "runtime": 118,
+   "poster": "https://image.tmdb.org/t/p/w342/tisNLcMkxryU2zxhi0PiyDFqhm0.jpg",
+   "available": true,
+   "collections": [
+    "Criterion",
+    "Eureka"
+   ]
+  },
+  {
+   "title": "Female Trouble",
+   "director": "John Waters",
+   "year": 1974,
+   "genre1": "Art",
+   "genre2": "Crime",
+   "country": "USA",
+   "runtime": 98,
+   "poster": "https://image.tmdb.org/t/p/w342/cqhIufhoORDMuFKEinV1IIYUBxD.jpg",
+   "available": true,
+   "collections": [
+    "Criterion",
+    "Eureka"
+   ]
+  },
+  {
+   "title": "For Your Eyes Only",
+   "director": "John Glen",
+   "year": 1981,
+   "genre1": "Action",
+   "genre2": "Thriller",
+   "country": "UK",
+   "runtime": 128,
+   "poster": "https://image.tmdb.org/t/p/w342/xV4Nnr6DjjERlqNikqDQX8LUgua.jpg",
+   "available": true,
+   "collections": [
+    "Eureka"
+   ]
+  },
+  {
+   "title": "Funny Games",
+   "director": "Michael Haneke",
+   "year": 1997,
+   "genre1": "Drama",
+   "genre2": "Horror",
+   "country": "Austria",
+   "runtime": 109,
+   "poster": "https://image.tmdb.org/t/p/w342/48uCNgdyYIoN4ayWjTpLaqSDcWI.jpg",
+   "available": true,
+   "collections": [
+    "Criterion"
+   ]
+  },
+  {
+   "title": "Ghost Dog: The Way of The Samurai",
+   "director": "Jim Jarmusch",
+   "year": 2000,
+   "genre1": "Neo-Noir",
+   "genre2": "Samurai",
+   "country": "USA",
+   "runtime": 117,
+   "poster": "https://image.tmdb.org/t/p/w342/gjcl07r9zgQ9tVo9alyHmysPFfX.jpg",
+   "available": false,
+   "collections": [
+    "Criterion",
+    "Eureka"
+   ]
+  },
+  {
+   "title": "Ghoulies",
+   "director": "Luca Bercovici",
+   "year": 1985,
+   "genre1": "Horror",
+   "genre2": "Comedy",
+   "country": "USA",
+   "runtime": 81,
+   "poster": "https://image.tmdb.org/t/p/w342/yV8z6deULhH4oJAUj2YdhITPwfc.jpg",
+   "available": true,
+   "collections": []
+  },
+  {
+   "title": "Good Morning",
+   "director": "Yasujirō Ozu",
+   "year": 1959,
+   "genre1": "Comedy",
+   "genre2": "Slice of Life",
+   "country": "Japan",
+   "runtime": 94,
+   "poster": "https://image.tmdb.org/t/p/w342/q2nB2NFUi0jBYnLl2iuS2tcJTJ7.jpg",
+   "available": true,
+   "collections": [
+    "Criterion",
+    "Eureka"
+   ]
+  },
+  {
+   "title": "Grave of the Fireflies",
+   "director": "Isao Takahata",
+   "year": 1988,
+   "genre1": "Animation",
+   "genre2": "Drama",
+   "country": "Japan",
+   "runtime": 89,
+   "poster": "https://image.tmdb.org/t/p/w342/k9tv1rXZbOhH7eiCk378x61kNQ1.jpg",
+   "available": true,
+   "collections": []
+  },
+  {
+   "title": "Gummo",
+   "director": "Harmony Korine",
+   "year": 1997,
+   "genre1": "Drama",
+   "genre2": "Comedy",
+   "country": "USA",
+   "runtime": 89,
+   "poster": "https://image.tmdb.org/t/p/w342/tMdoCRx0XIPR5uYBwxbxR7WCNBb.jpg",
+   "available": true,
+   "collections": [
+    "Criterion"
+   ]
+  },
+  {
+   "title": "Gwendoline",
+   "director": "Just Jaeckin",
+   "year": 1984,
+   "genre1": "Adventure",
+   "genre2": "Fantasy",
+   "country": "France",
+   "runtime": 88,
+   "poster": "https://image.tmdb.org/t/p/w342/jrdG8apgpfsC7YUNplObUZnG2e3.jpg",
+   "available": true,
+   "collections": []
+  },
+  {
+   "title": "Hairspray",
+   "director": "John Waters",
+   "year": 1988,
+   "genre1": "Comedy",
+   "genre2": "",
+   "country": "USA",
+   "runtime": 92,
+   "poster": "https://image.tmdb.org/t/p/w342/n78VVWG1jsEpMCtcye13wy1RiAx.jpg",
+   "available": true,
+   "collections": [
+    "Criterion"
+   ]
+  },
+  {
+   "title": "Halloween",
+   "director": "John Carpenter",
+   "year": 1978,
+   "genre1": "Horror",
+   "genre2": "Thriller",
+   "country": "USA",
+   "runtime": 91,
+   "poster": "https://image.tmdb.org/t/p/w342/wijlZ3HaYMvlDTPqJoTCWKFkCPU.jpg",
+   "available": true,
+   "collections": []
+  },
+  {
+   "title": "Heat",
+   "director": "Michael Mann",
+   "year": 1995,
+   "genre1": "Crime",
+   "genre2": "Drama",
+   "country": "USA",
+   "runtime": 170,
+   "poster": "https://image.tmdb.org/t/p/w342/umSVjVdbVwtx5ryCA2QXL44Durm.jpg",
+   "available": true,
+   "collections": []
+  },
+  {
+   "title": "Heavy Metal",
+   "director": "Gerald Potterton",
+   "year": 1981,
+   "genre1": "Animated",
+   "genre2": "Cult",
+   "country": "USA",
+   "runtime": 90,
+   "poster": "https://image.tmdb.org/t/p/w342/atUtWrDlLzT1yeVK2EoYtvbS963.jpg",
+   "available": true,
+   "collections": [
+    "Eureka"
+   ]
+  },
+  {
+   "title": "Hellraiser",
+   "director": "Clive Barker",
+   "year": 1987,
+   "genre1": "Horror",
+   "genre2": "Thriller",
+   "country": "USA",
+   "runtime": 93,
+   "poster": "https://image.tmdb.org/t/p/w342/3Z0oPHyLnk3Vx6ZMC1MiVwIrKhO.jpg",
+   "available": true,
+   "collections": [
+    "Eureka"
+   ]
+  },
+  {
+   "title": "Hereditary",
+   "director": "Ari Aster",
+   "year": 2018,
+   "genre1": "Horror",
+   "genre2": "Mystery",
+   "country": "USA",
+   "runtime": 128,
+   "poster": "https://image.tmdb.org/t/p/w342/4GFPuL14eXi66V96xBWY73Y9PfR.jpg",
+   "available": true,
+   "collections": []
+  },
+  {
+   "title": "High And Low",
+   "director": "Akira Kurosawa",
+   "year": 1963,
+   "genre1": "Noir",
+   "genre2": "Procedural",
+   "country": "Japan",
+   "runtime": 142,
+   "poster": "https://image.tmdb.org/t/p/w342/tgNjemQPG96uIezpiUiXFcer5ga.jpg",
+   "available": true,
+   "collections": [
+    "Criterion",
+    "Eureka"
+   ]
+  },
+  {
+   "title": "House",
+   "director": "Nobuhiko Obayashi",
+   "year": 1977,
+   "genre1": "Comedy",
+   "genre2": "Fantasy",
+   "country": "Japan",
+   "runtime": 88,
+   "poster": "https://image.tmdb.org/t/p/w342/ryZ3DdZPvXVCv9qRCtVRfmNbYAH.jpg",
+   "available": true,
+   "collections": [
+    "Criterion"
+   ]
+  },
+  {
+   "title": "Ikiru",
+   "director": "Akira Kurosawa",
+   "year": 1956,
+   "genre1": "Drama",
+   "genre2": "Life Changing",
+   "country": "Japan",
+   "runtime": null,
+   "poster": "https://image.tmdb.org/t/p/w342/dgNTS4EQDDVfkzJI5msKuHu2Ei3.jpg",
+   "available": true,
+   "collections": [
+    "Criterion",
+    "Eureka"
+   ]
+  },
+  {
+   "title": "In The Mood For Love",
+   "director": "Wong Kar-wai",
+   "year": 2001,
+   "genre1": "Romance",
+   "genre2": "Drama",
+   "country": "Hong Kong",
+   "runtime": 99,
+   "poster": "https://image.tmdb.org/t/p/w342/8BgGbbWiLNhPtkMkN0gGTnbtvBv.jpg",
+   "available": true,
+   "collections": [
+    "Criterion",
+    "Eureka"
+   ]
+  },
+  {
+   "title": "Infernal Affairs",
+   "director": "Andrew Lau, Alan Mak",
+   "year": 2002,
+   "genre1": "Crime",
+   "genre2": "Drama",
+   "country": "Korea",
+   "runtime": 101,
+   "poster": "https://image.tmdb.org/t/p/w342/gix9thDBXfjJ8M7rYbihqbQGBcP.jpg",
+   "available": true,
+   "collections": [
+    "Criterion",
+    "Eureka"
+   ]
+  },
+  {
+   "title": "Infernal Affairs II",
+   "director": "Andrew Lau, Alan Mak",
+   "year": 2003,
+   "genre1": "Crime",
+   "genre2": "Drama",
+   "country": "Korea",
+   "runtime": 119,
+   "poster": "https://image.tmdb.org/t/p/w342/q9MCjc4CMXju59slJEzYEtr7F3W.jpg",
+   "available": true,
+   "collections": [
+    "Criterion",
+    "Eureka"
+   ]
+  },
+  {
+   "title": "Infernal Affairs III",
+   "director": "Andrew Lau, Alan Mak",
+   "year": 2003,
+   "genre1": "Crime",
+   "genre2": "Drama",
+   "country": "Korea",
+   "runtime": 118,
+   "poster": "https://image.tmdb.org/t/p/w342/kXTHj16K8Lr1EgwdzuzAB1j4Cy5.jpg",
+   "available": true,
+   "collections": [
+    "Criterion",
+    "Eureka"
+   ]
+  },
+  {
+   "title": "Inland Empire",
+   "director": "David Lynch",
+   "year": 2006,
+   "genre1": "Horror",
+   "genre2": "Thriller",
+   "country": "USA",
+   "runtime": 180,
+   "poster": "https://image.tmdb.org/t/p/w342/s5f0FbVAABEnJYKaApWORTxhiFC.jpg",
+   "available": true,
+   "collections": [
+    "Criterion"
+   ]
+  },
+  {
+   "title": "Invasion USA",
+   "director": "Joseph Zito",
+   "year": 1985,
+   "genre1": "Action",
+   "genre2": "Cult",
+   "country": "USA",
+   "runtime": 107,
+   "poster": "https://image.tmdb.org/t/p/w342/mE5dSRTKW1dzV7D0pgP8sMxyIa9.jpg",
+   "available": true,
+   "collections": [
+    "Eureka"
+   ]
+  },
+  {
+   "title": "Ip Man I",
+   "director": "Wilson Yip",
+   "year": 2008,
+   "genre1": "Biography",
+   "genre2": "Martial Arts",
+   "country": "Hong Kong",
+   "runtime": 106,
+   "poster": "https://image.tmdb.org/t/p/w342/9bUIrDKnesNbBL1nAl1nt7gtocE.jpg",
+   "available": true,
+   "collections": [
+    "Eureka"
+   ]
+  },
+  {
+   "title": "Ip Man II",
+   "director": "Wilson Yip",
+   "year": 2010,
+   "genre1": "Biography",
+   "genre2": "Martial Arts",
+   "country": "Hong Kong",
+   "runtime": 100,
+   "poster": "https://image.tmdb.org/t/p/w342/ekJxJ037GWBrqIR8FX7Kh7daaR9.jpg",
+   "available": true,
+   "collections": [
+    "Eureka"
+   ]
+  },
+  {
+   "title": "Ip Man III",
+   "director": "Wilson Yip",
+   "year": 2015,
+   "genre1": "Biography",
+   "genre2": "Martial Arts",
+   "country": "Hong Kong",
+   "runtime": null,
+   "poster": "https://image.tmdb.org/t/p/w342/ekJxJ037GWBrqIR8FX7Kh7daaR9.jpg",
+   "available": true,
+   "collections": [
+    "Eureka"
+   ]
+  },
+  {
+   "title": "It Follows",
+   "director": "David Robert Mitchell",
+   "year": 2014,
+   "genre1": "Horror",
+   "genre2": "Mystery",
+   "country": "USA",
+   "runtime": 101,
+   "poster": "https://image.tmdb.org/t/p/w342/iwnQ1JH1wdWrGYkgWySptJ5284A.jpg",
+   "available": true,
+   "collections": [
+    "Eureka"
+   ]
+  },
+  {
+   "title": "It Follows",
+   "director": "David Robert Mitchell",
+   "year": 2015,
+   "genre1": "Horror",
+   "genre2": "Mystery",
+   "country": "USA",
+   "runtime": 101,
+   "poster": "https://image.tmdb.org/t/p/w342/iwnQ1JH1wdWrGYkgWySptJ5284A.jpg",
+   "available": true,
+   "collections": []
+  },
+  {
+   "title": "Jeanne Dielman, 23 quai du Commerce, 1080 Bruxelles",
+   "director": "Chantal Akerman",
+   "year": 1983,
+   "genre1": "Drama",
+   "genre2": "Feminism",
+   "country": "France",
+   "runtime": null,
+   "poster": "https://image.tmdb.org/t/p/w342/fqfSu8Y1YSVFkoCJyiTXI6woYma.jpg",
+   "available": true,
+   "collections": [
+    "Criterion",
+    "Eureka"
+   ]
+  },
+  {
+   "title": "Killers of the Flower Moon",
+   "director": "Martin Scorsese",
+   "year": 2023,
+   "genre1": "Crime",
+   "genre2": "Drama",
+   "country": "USA",
+   "runtime": 206,
+   "poster": "https://image.tmdb.org/t/p/w342/dB6Krk806zeqd0YNp2ngQ9zXteH.jpg",
+   "available": true,
+   "collections": []
+  },
+  {
+   "title": "The Killing",
+   "director": "Stanley Kubrick",
+   "year": 1956,
+   "genre1": "Crime",
+   "genre2": "Thriller",
+   "country": "USA",
+   "runtime": 85,
+   "poster": "https://image.tmdb.org/t/p/w342/A6VzUPcADZGYdGHlVdWvpMNDF5d.jpg",
+   "available": true,
+   "collections": [
+    "Criterion"
+   ]
+  },
+  {
+   "title": "Koyaanisqatsi",
+   "director": "Godfrey Reggio",
+   "year": 1983,
+   "genre1": "Documentary",
+   "genre2": "",
+   "country": "USA",
+   "runtime": 86,
+   "poster": "https://image.tmdb.org/t/p/w342/6zCNciRcob8lwuydVXgq0esla8L.jpg",
+   "available": true,
+   "collections": [
+    "Criterion"
+   ]
+  },
+  {
+   "title": "Kuso",
+   "director": "Steve (Flying Lotus)",
+   "year": 2017,
+   "genre1": "Art",
+   "genre2": "Comedy",
+   "country": "USA",
+   "runtime": 94,
+   "poster": "https://image.tmdb.org/t/p/w342/2Pl3Vptkzaum6FZ5K6iDqybuhp4.jpg",
+   "available": true,
+   "collections": [
+    "Eureka"
+   ]
+  },
+  {
+   "title": "La Cérémonie",
+   "director": "Claude Chabrol",
+   "year": 1995,
+   "genre1": "Drama",
+   "genre2": "Thriller",
+   "country": "France",
+   "runtime": 112,
+   "poster": "https://image.tmdb.org/t/p/w342/vq2x8JfEoVrdQZqo0fppjw7ZI3d.jpg",
+   "available": true,
+   "collections": [
+    "Criterion"
+   ]
+  },
+  {
+   "title": "La Jetée and Sans Soleil",
+   "director": "Chris Marker",
+   "year": 1962,
+   "genre1": "Drama",
+   "genre2": "Romance",
+   "country": "France",
+   "runtime": 29,
+   "poster": null,
+   "available": true,
+   "collections": [
+    "Criterion"
+   ]
+  },
+  {
+   "title": "Lady Vengeance",
+   "director": "Park Chan-wook",
+   "year": 2005,
+   "genre1": "Neo-Noir",
+   "genre2": "Revenge",
+   "country": "Korea",
+   "runtime": 115,
+   "poster": "https://image.tmdb.org/t/p/w342/ifcxaKfzNQ6W8uSLpnGo7AfiSL8.jpg",
+   "available": true,
+   "collections": [
+    "Eureka"
+   ]
+  },
+  {
+   "title": "Lady Vengeance",
+   "director": "Park Chan-wook",
+   "year": 2005,
+   "genre1": "Action",
+   "genre2": "Mystery",
+   "country": "Korea",
+   "runtime": 112,
+   "poster": "https://image.tmdb.org/t/p/w342/ifcxaKfzNQ6W8uSLpnGo7AfiSL8.jpg",
+   "available": true,
+   "collections": []
+  },
+  {
+   "title": "Land of the Dead",
+   "director": "George Romero",
+   "year": 2005,
+   "genre1": "Horror",
+   "genre2": "Sci-Fi",
+   "country": "USA",
+   "runtime": 93,
+   "poster": "https://image.tmdb.org/t/p/w342/xxp0qcZ3n2YA53SIzWilDSfIaA4.jpg",
+   "available": true,
+   "collections": [
+    "Eureka"
+   ]
+  },
+  {
+   "title": "The Last Circus",
+   "director": "Álex de la Iglesia",
+   "year": 2010,
+   "genre1": "Art",
+   "genre2": "Comedy",
+   "country": "Spain",
+   "runtime": 106,
+   "poster": "https://image.tmdb.org/t/p/w342/rbpp2G4cpGG8jqCqhEBwvjQ0Y6C.jpg",
+   "available": true,
+   "collections": [
+    "Eureka"
+   ]
+  },
+  {
+   "title": "Last Hurrah for Chivalry",
+   "director": "John Woo",
+   "year": 1979,
+   "genre1": "Action",
+   "genre2": "",
+   "country": "Hong Kong",
+   "runtime": 106,
+   "poster": "https://image.tmdb.org/t/p/w342/uv8gmLKluvZBEnKI4cRnQ7r4iKs.jpg",
+   "available": true,
+   "collections": [
+    "Criterion"
+   ]
+  },
+  {
+   "title": "Layer Cake",
+   "director": "Matthew Vaughn",
+   "year": 2004,
+   "genre1": "Action",
+   "genre2": "Crime",
+   "country": "UK",
+   "runtime": 105,
+   "poster": "https://image.tmdb.org/t/p/w342/rDOxXteqxALBaSa3V3zTjGJuyWB.jpg",
+   "available": true,
+   "collections": [
+    "Eureka"
+   ]
+  },
+  {
+   "title": "Le Cercle Rouge",
+   "director": "Jean-Pierre Melville",
+   "year": 1970,
+   "genre1": "Crime",
+   "genre2": "Drama",
+   "country": "France",
+   "runtime": 140,
+   "poster": "https://image.tmdb.org/t/p/w342/w56La43IJnGpLepgqfGCAZsbQPp.jpg",
+   "available": true,
+   "collections": [
+    "Criterion"
+   ]
+  },
+  {
+   "title": "Letter Never Sent",
+   "director": "Mikhail Kalatozov",
+   "year": 1960,
+   "genre1": "Drama",
+   "genre2": "Adventure",
+   "country": "Soviet Union",
+   "runtime": 97,
+   "poster": "https://image.tmdb.org/t/p/w342/eBIEgVI4uMzJGvEtwS31YtgEqTP.jpg",
+   "available": true,
+   "collections": [
+    "Criterion"
+   ]
+  },
+  {
+   "title": "Life is Cheap, but Toilet Paper is Expensive",
+   "director": "Wayne Wang",
+   "year": 1989,
+   "genre1": "Drama",
+   "genre2": "Cult",
+   "country": "Hong Kong",
+   "runtime": 83,
+   "poster": "https://image.tmdb.org/t/p/w342/3NBsDMRt26emGro9ofMFRBobYR1.jpg",
+   "available": true,
+   "collections": [
+    "Eureka"
+   ]
+  },
+  {
+   "title": "The Lion In Winter",
+   "director": "Anthony Harvey",
+   "year": 1968,
+   "genre1": "Drama",
+   "genre2": "",
+   "country": "UK",
+   "runtime": 134,
+   "poster": "https://image.tmdb.org/t/p/w342/yMgJnZADJObzfjA70ygXJkjnrFX.jpg",
+   "available": true,
+   "collections": [
+    "Eureka"
+   ]
+  },
+  {
+   "title": "The Lion in Winter",
+   "director": "Anthony Harvey",
+   "year": 1968,
+   "genre1": "Drama",
+   "genre2": "",
+   "country": "UK",
+   "runtime": 134,
+   "poster": "https://image.tmdb.org/t/p/w342/yMgJnZADJObzfjA70ygXJkjnrFX.jpg",
+   "available": true,
+   "collections": []
+  },
+  {
+   "title": "The Living Daylights",
+   "director": "John Glen",
+   "year": 1987,
+   "genre1": "Action",
+   "genre2": "Thriller",
+   "country": "UK",
+   "runtime": 130,
+   "poster": "https://image.tmdb.org/t/p/w342/1oRlmWX9hewpn2B44wawBjHd7dx.jpg",
+   "available": true,
+   "collections": [
+    "Eureka"
+   ]
+  },
+  {
+   "title": "Logan Lucky",
+   "director": "Steven Soderbergh",
+   "year": 2017,
+   "genre1": "Crime",
+   "genre2": "Action",
+   "country": "USA",
+   "runtime": 119,
+   "poster": "https://image.tmdb.org/t/p/w342/mQrhrBaaHvRfBQq0Px3HtVbH9iE.jpg",
+   "available": true,
+   "collections": [
+    "Eureka"
+   ]
+  },
+  {
+   "title": "Lost Highway",
+   "director": "David Lynch",
+   "year": 1997,
+   "genre1": "Drama",
+   "genre2": "Thriller",
+   "country": "France",
+   "runtime": 134,
+   "poster": "https://image.tmdb.org/t/p/w342/5POhfNeFPIi4VUNwCTaK85sh98r.jpg",
+   "available": true,
+   "collections": [
+    "Criterion"
+   ]
+  },
+  {
+   "title": "Machete",
+   "director": "Robert Rodriguez",
+   "year": 2010,
+   "genre1": "Action",
+   "genre2": "Comedy",
+   "country": "USA",
+   "runtime": 105,
+   "poster": "https://image.tmdb.org/t/p/w342/dcPSm1rGEFdiEc7DaKz0t5kb66b.jpg",
+   "available": true,
+   "collections": [
+    "Eureka"
+   ]
+  },
+  {
+   "title": "Malcolm X",
+   "director": "Spike Lee",
+   "year": 1992,
+   "genre1": "Historical",
+   "genre2": "Drama",
+   "country": "USA",
+   "runtime": 202,
+   "poster": "https://image.tmdb.org/t/p/w342/o2s9ow0uRRm1BcF3teznk5twd90.jpg",
+   "available": true,
+   "collections": [
+    "Criterion",
+    "Eureka"
+   ]
+  },
+  {
+   "title": "Martyrs",
+   "director": "Pascal Laugier",
+   "year": 2008,
+   "genre1": "Horror",
+   "genre2": "Drama",
+   "country": "France",
+   "runtime": 99,
+   "poster": "https://image.tmdb.org/t/p/w342/sT5ITTlTcnPOeFzHEu5j0hTZUvD.jpg",
+   "available": true,
+   "collections": [
+    "Eureka"
+   ]
+  },
+  {
+   "title": "Menace II Society",
+   "director": "Allen Hughes, Albert Hughes",
+   "year": 1993,
+   "genre1": "Drama",
+   "genre2": "Crime",
+   "country": "USA",
+   "runtime": 97,
+   "poster": "https://image.tmdb.org/t/p/w342/guvPiEOeXwROpfCb2LkHkVEvOck.jpg",
+   "available": true,
+   "collections": [
+    "Criterion",
+    "Eureka"
+   ]
+  },
+  {
+   "title": "Midnight Cowboy",
+   "director": "John Schlesinger",
+   "year": 1969,
+   "genre1": "Drama",
+   "genre2": "",
+   "country": "USA",
+   "runtime": 113,
+   "poster": "https://image.tmdb.org/t/p/w342/ckklq45UxUkwgHve9xItXqXr06r.jpg",
+   "available": true,
+   "collections": [
+    "Criterion",
+    "Eureka"
+   ]
+  },
+  {
+   "title": "Moonlight",
+   "director": "Barry Jenkins",
+   "year": 2016,
+   "genre1": "Coming of Age",
+   "genre2": "Drama",
+   "country": "USA",
+   "runtime": 111,
+   "poster": "https://image.tmdb.org/t/p/w342/qLnfEmPrDjJfPyyddLJPkXmshkp.jpg",
+   "available": true,
+   "collections": [
+    "Eureka"
+   ]
+  },
+  {
+   "title": "Mulholland Dr.",
+   "director": "David Lynch",
+   "year": 2001,
+   "genre1": "Thriller",
+   "genre2": "Drama",
+   "country": "USA",
+   "runtime": 147,
+   "poster": "https://image.tmdb.org/t/p/w342/x7A59t6ySylr1L7aubOQEA480vM.jpg",
+   "available": true,
+   "collections": [
+    "Criterion",
+    "Eureka"
+   ]
+  },
+  {
+   "title": "Multiple Maniacs",
+   "director": "John Waters",
+   "year": 1970,
+   "genre1": "Art",
+   "genre2": "Drama",
+   "country": "USA",
+   "runtime": 97,
+   "poster": "https://image.tmdb.org/t/p/w342/pJaQqCKS8v7a00a6PNn01PcLcAW.jpg",
+   "available": true,
+   "collections": [
+    "Criterion",
+    "Eureka"
+   ]
+  },
+  {
+   "title": "My Own Private Idaho",
+   "director": "Gus Van Sant",
+   "year": 1991,
+   "genre1": "Romance",
+   "genre2": "Adaptation",
+   "country": "USA",
+   "runtime": 104,
+   "poster": "https://image.tmdb.org/t/p/w342/p9TF90Pb5yg2MNb2UztzyXktMm4.jpg",
+   "available": true,
+   "collections": [
+    "Criterion",
+    "Eureka"
+   ]
+  },
+  {
+   "title": "Naqoyqatsi",
+   "director": "Godfrey Reggio",
+   "year": 2002,
+   "genre1": "Documentary",
+   "genre2": "",
+   "country": "USA",
+   "runtime": 89,
+   "poster": "https://image.tmdb.org/t/p/w342/buDo6FcSlOVEQJomKB0IviNV0Do.jpg",
+   "available": true,
+   "collections": [
+    "Criterion"
+   ]
+  },
+  {
+   "title": "New York Ninja",
+   "director": "John Liu",
+   "year": 2021,
+   "genre1": "Cult",
+   "genre2": "Action",
+   "country": "USA",
+   "runtime": 93,
+   "poster": "https://image.tmdb.org/t/p/w342/1oXECgPkTPx98EZWcaCpHH3Rdhv.jpg",
+   "available": true,
+   "collections": [
+    "Eureka"
+   ]
+  },
+  {
+   "title": "Night Killer",
+   "director": "Clyde Anderson",
+   "year": 1989,
+   "genre1": "",
+   "genre2": "",
+   "country": "USA",
+   "runtime": 93,
+   "poster": "https://image.tmdb.org/t/p/w342/rYvP6yMXCIVHnkVtwGaAXFmpzkB.jpg",
+   "available": true,
+   "collections": []
+  },
+  {
+   "title": "Night of The Living Dead",
+   "director": "George Romero",
+   "year": 1968,
+   "genre1": "Horror",
+   "genre2": "Thriller",
+   "country": "USA",
+   "runtime": 96,
+   "poster": "https://image.tmdb.org/t/p/w342/rb2NWyb008u1EcKCOyXs2Nmj0ra.jpg",
+   "available": true,
+   "collections": [
+    "Criterion",
+    "Eureka"
+   ]
+  },
+  {
+   "title": "Nightmare Alley",
+   "director": "Guillermo del Toro",
+   "year": 2021,
+   "genre1": "Crime",
+   "genre2": "Drama",
+   "country": "USA",
+   "runtime": 151,
+   "poster": "https://image.tmdb.org/t/p/w342/vfn1feL0V9HNSXuLLpaxAW8O6LO.jpg",
+   "available": true,
+   "collections": [
+    "Criterion"
+   ]
+  },
+  {
+   "title": "No Country for Old Men",
+   "director": "Joel Coen, Ethan Coen",
+   "year": 2007,
+   "genre1": "Crime",
+   "genre2": "Thriller",
+   "country": "USA",
+   "runtime": 122,
+   "poster": "https://image.tmdb.org/t/p/w342/6d5XOczc226jECq0LIX0siKtgHR.jpg",
+   "available": true,
+   "collections": [
+    "Criterion"
+   ]
+  },
+  {
+   "title": "Office Space",
+   "director": "Mike Judge",
+   "year": 1999,
+   "genre1": "Comedy",
+   "genre2": "",
+   "country": "USA",
+   "runtime": 90,
+   "poster": "https://image.tmdb.org/t/p/w342/iEmTwOkUaLziMQCUZii5wPQBIAO.jpg",
+   "available": true,
+   "collections": [
+    "Eureka"
+   ]
+  },
+  {
+   "title": "The Old Man Movie: Lactopalypse",
+   "director": "Mikk Mägi",
+   "year": 2019,
+   "genre1": "Comedy",
+   "genre2": "",
+   "country": "Estonia",
+   "runtime": 88,
+   "poster": "https://image.tmdb.org/t/p/w342/ae3MHSj6OJL1aZyAD4pq6FUh9qr.jpg",
+   "available": true,
+   "collections": [
+    "Eureka"
+   ]
+  },
+  {
+   "title": "Oldboy",
+   "director": "Park Chan-wook",
+   "year": 2003,
+   "genre1": "Neo-Noir",
+   "genre2": "Revenge",
+   "country": "Korea",
+   "runtime": 120,
+   "poster": "https://image.tmdb.org/t/p/w342/pWDtjs568ZfOTMbURQBYuT4Qxka.jpg",
+   "available": true,
+   "collections": [
+    "Eureka"
+   ]
+  },
+  {
+   "title": "On The Waterfront",
+   "director": "Elia Kazan",
+   "year": 1954,
+   "genre1": "Drama",
+   "genre2": "",
+   "country": "USA",
+   "runtime": 108,
+   "poster": "https://image.tmdb.org/t/p/w342/d4S8LpbCyFJsh1tGgwGQSJdGzKm.jpg",
+   "available": true,
+   "collections": [
+    "Criterion",
+    "Eureka"
+   ]
+  },
+  {
+   "title": "Onibaba",
+   "director": "Kaneto Shindo",
+   "year": 1965,
+   "genre1": "Horror",
+   "genre2": "Historical",
+   "country": "Japan",
+   "runtime": 105,
+   "poster": "https://image.tmdb.org/t/p/w342/xyPLG53OodhJtvfQEfcmC43l16O.jpg",
+   "available": true,
+   "collections": [
+    "Criterion",
+    "Eureka"
+   ]
+  },
+  {
+   "title": "Paris Texas",
+   "director": "Wim Wenders",
+   "year": 1984,
+   "genre1": "Drama",
+   "genre2": "",
+   "country": "USA",
+   "runtime": 145,
+   "poster": "https://image.tmdb.org/t/p/w342/sP27Qm4THyRZyHjHYMfIDtJP6YE.jpg",
+   "available": true,
+   "collections": [
+    "Criterion",
+    "Eureka"
+   ]
+  },
+  {
+   "title": "Patriot Games",
+   "director": "Phillip Noyce",
+   "year": 1992,
+   "genre1": "Action",
+   "genre2": "Thriller",
+   "country": "USA",
+   "runtime": 117,
+   "poster": "https://image.tmdb.org/t/p/w342/9IT7gnszrRthduYxCLqaIkM55Un.jpg",
+   "available": true,
+   "collections": [
+    "Eureka"
+   ]
+  },
+  {
+   "title": "Perfect Blue",
+   "director": "Satoshi Kon",
+   "year": 1998,
+   "genre1": "Action",
+   "genre2": "Animated",
+   "country": "Japan",
+   "runtime": 81,
+   "poster": "https://image.tmdb.org/t/p/w342/6WTiOCfDPP8XV4jqfloiVWf7KHq.jpg",
+   "available": true,
+   "collections": [
+    "Eureka"
+   ]
+  },
+  {
+   "title": "Perfect Days",
+   "director": "Wim Wenders",
+   "year": 2023,
+   "genre1": "Drama",
+   "genre2": "Life Changing",
+   "country": "Japan",
+   "runtime": 124,
+   "poster": "https://image.tmdb.org/t/p/w342/tvUHVSTJV9ITON3oyHaWp7oaAc8.jpg",
+   "available": false,
+   "collections": [
+    "Criterion",
+    "Eureka"
+   ]
+  },
+  {
+   "title": "Persona",
+   "director": "Ingmar Bergman",
+   "year": 1967,
+   "genre1": "Drama",
+   "genre2": "Art",
+   "country": "Sweden",
+   "runtime": 85,
+   "poster": "https://image.tmdb.org/t/p/w342/cl0HEZT8UfzLqaMrYTvGNHOfPYj.jpg",
+   "available": true,
+   "collections": [
+    "Criterion",
+    "Eureka"
+   ]
+  },
+  {
+   "title": "PG: Psycho Goreman",
+   "director": "Steven Kostanski",
+   "year": 2020,
+   "genre1": "Horror",
+   "genre2": "Comedy",
+   "country": "Canada",
+   "runtime": 95,
+   "poster": "https://image.tmdb.org/t/p/w342/28Y3pxfkRZMhLsw4if6e3J0HD7Q.jpg",
+   "available": true,
+   "collections": [
+    "Eureka"
+   ]
+  },
+  {
+   "title": "Phantasm",
+   "director": "Don Coscarelli",
+   "year": 1979,
+   "genre1": "Horror",
+   "genre2": "Sci-Fi",
+   "country": "USA",
+   "runtime": 89,
+   "poster": "https://image.tmdb.org/t/p/w342/eR0uJ0Wje1lYJ4aHEpkcjgIM8d7.jpg",
+   "available": true,
+   "collections": []
+  },
+  {
+   "title": "Pink Flamingos",
+   "director": "John Waters",
+   "year": 1972,
+   "genre1": "Drama",
+   "genre2": "Art",
+   "country": "USA",
+   "runtime": 93,
+   "poster": "https://image.tmdb.org/t/p/w342/10N8SvTQwUqyWgocPam1P18Jgr.jpg",
+   "available": false,
+   "collections": [
+    "Criterion",
+    "Eureka"
+   ]
+  },
+  {
+   "title": "Piranha",
+   "director": "Joe Dante",
+   "year": 1978,
+   "genre1": "Horror",
+   "genre2": "Sci-Fi",
+   "country": "USA",
+   "runtime": 94,
+   "poster": "https://image.tmdb.org/t/p/w342/oaz0Le3fT3R8jzlkXkNV7JAsd7x.jpg",
+   "available": true,
+   "collections": []
+  },
+  {
+   "title": "Police Story",
+   "director": "Jackie Chan",
+   "year": 1985,
+   "genre1": "Action",
+   "genre2": "Crime",
+   "country": "Hong Kong",
+   "runtime": 99,
+   "poster": "https://image.tmdb.org/t/p/w342/1eFB0Iy1TMU4VO5hMcoCE064JAT.jpg",
+   "available": true,
+   "collections": [
+    "Criterion"
+   ]
+  },
+  {
+   "title": "Polyester",
+   "director": "John Waters",
+   "year": 1981,
+   "genre1": "Comedy",
+   "genre2": "Drama",
+   "country": "USA",
+   "runtime": 86,
+   "poster": "https://image.tmdb.org/t/p/w342/14RfMqOe8eF17bUajPsy4HtRsVC.jpg",
+   "available": true,
+   "collections": [
+    "Criterion",
+    "Eureka"
+   ]
+  },
+  {
+   "title": "Ponyo",
+   "director": "Hayao Miyazaki",
+   "year": 2008,
+   "genre1": "Family",
+   "genre2": "Animated",
+   "country": "Japan",
+   "runtime": 100,
+   "poster": "https://image.tmdb.org/t/p/w342/yp8vEZflGynlEylxEesbYasc06i.jpg",
+   "available": true,
+   "collections": [
+    "Eureka"
+   ]
+  },
+  {
+   "title": "Portrait of a Lady on Fire",
+   "director": "Céline Sciamma",
+   "year": 2019,
+   "genre1": "Drama",
+   "genre2": "Romance",
+   "country": "France",
+   "runtime": 121,
+   "poster": "https://image.tmdb.org/t/p/w342/2LquGwEhbg3soxSCs9VNyh5VJd9.jpg",
+   "available": true,
+   "collections": [
+    "Criterion"
+   ]
+  },
+  {
+   "title": "Possession",
+   "director": "Andrzej Żuławski",
+   "year": 1981,
+   "genre1": "Horror",
+   "genre2": "",
+   "country": "France",
+   "runtime": 124,
+   "poster": "https://image.tmdb.org/t/p/w342/A9bnRn05riOKWftvQlLKa2gl51n.jpg",
+   "available": true,
+   "collections": []
+  },
+  {
+   "title": "Powaqqatsi",
+   "director": "Godfrey Reggio",
+   "year": 1988,
+   "genre1": "Documentary",
+   "genre2": "",
+   "country": "USA",
+   "runtime": 100,
+   "poster": "https://image.tmdb.org/t/p/w342/xh8Pvtq4dYry9B4uRT3VbmSI4Wi.jpg",
+   "available": true,
+   "collections": [
+    "Criterion"
+   ]
+  },
+  {
+   "title": "The Princess Bride",
+   "director": "Rob Reiner",
+   "year": 1987,
+   "genre1": "Fantasy",
+   "genre2": "Comedy",
+   "country": "USA",
+   "runtime": 99,
+   "poster": "https://image.tmdb.org/t/p/w342/2FC9L9MrjBoGHYjYZjdWQdopVYb.jpg",
+   "available": true,
+   "collections": [
+    "Criterion"
+   ]
+  },
+  {
+   "title": "Prisoners of the Ghostland",
+   "director": "Sion Sono",
+   "year": 2021,
+   "genre1": "Action",
+   "genre2": "Western",
+   "country": "USA",
+   "runtime": 103,
+   "poster": "https://image.tmdb.org/t/p/w342/j5HRzcvN1QXZLvwfc3NLxX8XQJY.jpg",
+   "available": true,
+   "collections": [
+    "Eureka"
+   ]
+  },
+  {
+   "title": "Punch-Drunk Love",
+   "director": "Paul Thomas Anderson",
+   "year": 2002,
+   "genre1": "Romance",
+   "genre2": "Comedy",
+   "country": "USA",
+   "runtime": 96,
+   "poster": "https://image.tmdb.org/t/p/w342/htYp4yqFu4rzBEIa6j9jP8miDm3.jpg",
+   "available": true,
+   "collections": [
+    "Criterion",
+    "Eureka"
+   ]
+  },
+  {
+   "title": "Raising Arizona",
+   "director": "Joel Coen",
+   "year": 1987,
+   "genre1": "Drama",
+   "genre2": "Comedy",
+   "country": "USA",
+   "runtime": 94,
+   "poster": "https://image.tmdb.org/t/p/w342/niKyjOqiB4XVl0BqgKTHIlHOCeF.jpg",
+   "available": true,
+   "collections": [
+    "Eureka"
+   ]
+  },
+  {
+   "title": "Rashomon",
+   "director": "Akira Kurosawa",
+   "year": 1950,
+   "genre1": "Samurai",
+   "genre2": "Drama",
+   "country": "Japan",
+   "runtime": 88,
+   "poster": "https://image.tmdb.org/t/p/w342/ijWibsAU1iBcCD8tuIZfTmDzMVE.jpg",
+   "available": true,
+   "collections": [
+    "Criterion",
+    "Eureka"
+   ]
+  },
+  {
+   "title": "Rebels of the Neon God",
+   "director": "Tsai Ming-liang",
+   "year": 1992,
+   "genre1": "Drama",
+   "genre2": "Crime",
+   "country": "Taiwan",
+   "runtime": 106,
+   "poster": "https://image.tmdb.org/t/p/w342/eVNOoFSpRnaCNSJwerAD0KkeibD.jpg",
+   "available": true,
+   "collections": [
+    "Eureka"
+   ]
+  },
+  {
+   "title": "The Red Shoes",
+   "director": "Emeric Pressburger, Michael Powell",
+   "year": 1948,
+   "genre1": "Drama",
+   "genre2": "Romance",
+   "country": "UK",
+   "runtime": 133,
+   "poster": "https://image.tmdb.org/t/p/w342/vPvpBWFWDvEXuQBkoYgA6A89GVp.jpg",
+   "available": true,
+   "collections": [
+    "Criterion"
+   ]
+  },
+  {
+   "title": "Repo Man",
+   "director": "Alex Cox",
+   "year": 1984,
+   "genre1": "Comedy",
+   "genre2": "Sci-Fi",
+   "country": "USA",
+   "runtime": 92,
+   "poster": "https://image.tmdb.org/t/p/w342/bjuu5UceuVUNUjnOC2fBzL3hZKC.jpg",
+   "available": true,
+   "collections": [
+    "Criterion"
+   ]
+  },
+  {
+   "title": "Rio Bravo",
+   "director": "Howard Hawks",
+   "year": 1959,
+   "genre1": "Western",
+   "genre2": "Drama",
+   "country": "USA",
+   "runtime": 141,
+   "poster": "https://image.tmdb.org/t/p/w342/4gI4KKmoi0d3yfsF71YU3S0I5t8.jpg",
+   "available": true,
+   "collections": [
+    "Eureka"
+   ]
+  },
+  {
+   "title": "Rio Bravo",
+   "director": "Howard Hawks",
+   "year": 1959,
+   "genre1": "Western",
+   "genre2": "Drama",
+   "country": "USA",
+   "runtime": 141,
+   "poster": "https://image.tmdb.org/t/p/w342/4gI4KKmoi0d3yfsF71YU3S0I5t8.jpg",
+   "available": true,
+   "collections": []
+  },
+  {
+   "title": "Road House",
+   "director": "Rowdy Herrington",
+   "year": 1989,
+   "genre1": "Action",
+   "genre2": "Thriller",
+   "country": "USA",
+   "runtime": 114,
+   "poster": "https://image.tmdb.org/t/p/w342/n7Ra0BRYQVn47kiqOMyS8vdY0QS.jpg",
+   "available": true,
+   "collections": [
+    "Eureka"
+   ]
+  },
+  {
+   "title": "Robocop",
+   "director": "Paul Verhoeven",
+   "year": 1987,
+   "genre1": "Sci-Fi",
+   "genre2": "Action",
+   "country": "USA",
+   "runtime": 102,
+   "poster": "https://image.tmdb.org/t/p/w342/hHtOgGb3NihlyRATHlKPaFApbrd.jpg",
+   "available": true,
+   "collections": [
+    "Eureka"
+   ]
+  },
+  {
+   "title": "The Rocky Horror Picture Show",
+   "director": "Jim Sharman",
+   "year": 1975,
+   "genre1": "Musical",
+   "genre2": "Comedy",
+   "country": "UK",
+   "runtime": 100,
+   "poster": "https://image.tmdb.org/t/p/w342/3pyE6ZqDbuJi7zrNzzQzcKTWdmN.jpg",
+   "available": true,
+   "collections": [
+    "Eureka"
+   ]
+  },
+  {
+   "title": "Ronin",
+   "director": "John Frankenheimer",
+   "year": 1998,
+   "genre1": "Action",
+   "genre2": "Thriller",
+   "country": "USA",
+   "runtime": 122,
+   "poster": "https://image.tmdb.org/t/p/w342/AirrhRJjHwytOV0pdLu7YZ4DEyr.jpg",
+   "available": true,
+   "collections": [
+    "Eureka"
+   ]
+  },
+  {
+   "title": "A Room With A View",
+   "director": "James Ivory",
+   "year": 1986,
+   "genre1": "Romance",
+   "genre2": "",
+   "country": "Britain",
+   "runtime": 117,
+   "poster": "https://image.tmdb.org/t/p/w342/5xRAqywVo6tNUNQbAESGVP930la.jpg",
+   "available": true,
+   "collections": [
+    "Criterion",
+    "Eureka"
+   ]
+  },
+  {
+   "title": "Salò, or the 120 Days of Sodom",
+   "director": "Pier Paolo Pasolini",
+   "year": 1976,
+   "genre1": "Horror",
+   "genre2": "Drama",
+   "country": "Italy",
+   "runtime": 117,
+   "poster": "https://image.tmdb.org/t/p/w342/xnaDdiRfZlJaTf6JRc4in40eaeI.jpg",
+   "available": true,
+   "collections": [
+    "Criterion"
+   ]
+  },
+  {
+   "title": "Scarface",
+   "director": "Howard Hawks",
+   "year": 1932,
+   "genre1": "Crime",
+   "genre2": "Action",
+   "country": "USA",
+   "runtime": 93,
+   "poster": "https://image.tmdb.org/t/p/w342/y4E5oRiHMTFkEB12IIcpbKbKzDW.jpg",
+   "available": true,
+   "collections": [
+    "Criterion"
+   ]
+  },
+  {
+   "title": "Secret Sunshine",
+   "director": "Lee Chang-Dong",
+   "year": 2007,
+   "genre1": "Drama",
+   "genre2": "",
+   "country": "Korea",
+   "runtime": 143,
+   "poster": "https://image.tmdb.org/t/p/w342/vee1jyUrqUEmi5ZStWI1JJzLQJH.jpg",
+   "available": true,
+   "collections": [
+    "Criterion",
+    "Eureka"
+   ]
+  },
+  {
+   "title": "A Serious Man",
+   "director": "Joel Coen and Ethan Coen",
+   "year": 2009,
+   "genre1": "Comedy",
+   "genre2": "Drama",
+   "country": "USA",
+   "runtime": 106,
+   "poster": "https://image.tmdb.org/t/p/w342/5gGxDS8WmrebPlMHexVS8EVehiP.jpg",
+   "available": true,
+   "collections": [
+    "Eureka"
+   ]
+  },
+  {
+   "title": "Seven Samurai",
+   "director": "Akira Kurosawa",
+   "year": 1954,
+   "genre1": "Samurai",
+   "genre2": "Action",
+   "country": "Japan",
+   "runtime": 207,
+   "poster": "https://image.tmdb.org/t/p/w342/lOMGc8bnSwQhS4XyE1S99uH8NXf.jpg",
+   "available": true,
+   "collections": [
+    "Criterion",
+    "Eureka"
+   ]
+  },
+  {
+   "title": "sex, lies, and videotape",
+   "director": "Steven Soderbergh",
+   "year": 1989,
+   "genre1": "Drama",
+   "genre2": "",
+   "country": "USA",
+   "runtime": 101,
+   "poster": "https://image.tmdb.org/t/p/w342/dE0u4uB5UPfVIdz258Ye2XEPuuh.jpg",
+   "available": true,
+   "collections": [
+    "Criterion"
+   ]
+  },
+  {
+   "title": "Shoplifters",
+   "director": "Hirokazu Koreeda",
+   "year": 2018,
+   "genre1": "Drama",
+   "genre2": "Crime",
+   "country": "Japan",
+   "runtime": 120,
+   "poster": "https://image.tmdb.org/t/p/w342/4nfRUOv3LX5zLn98WS1WqVBk9E9.jpg",
+   "available": true,
+   "collections": [
+    "Eureka"
+   ]
+  },
+  {
+   "title": "Showgirls",
+   "director": "Paul Verhoeven",
+   "year": 1995,
+   "genre1": "Drama",
+   "genre2": "",
+   "country": "USA",
+   "runtime": 131,
+   "poster": "https://image.tmdb.org/t/p/w342/o4HT3Ap5c99W4FYpdXUtTvxGgPc.jpg",
+   "available": true,
+   "collections": [
+    "Eureka"
+   ]
+  },
+  {
+   "title": "The Silence of the Lambs",
+   "director": "Jonathan Demme",
+   "year": 1991,
+   "genre1": "Crime",
+   "genre2": "Thriller",
+   "country": "USA",
+   "runtime": 119,
+   "poster": "https://image.tmdb.org/t/p/w342/uS9m8OBk1A8eM9I042bx8XXpqAq.jpg",
+   "available": true,
+   "collections": []
+  },
+  {
+   "title": "Solaris",
+   "director": "Andrei Tarkovsky",
+   "year": 1972,
+   "genre1": "Drama",
+   "genre2": "Sci-Fi",
+   "country": "Soviet Union",
+   "runtime": 167,
+   "poster": "https://image.tmdb.org/t/p/w342/pgqj7QoBPWFLLKtLEpPmFYFRMgB.jpg",
+   "available": true,
+   "collections": [
+    "Criterion"
+   ]
+  },
+  {
+   "title": "Sorcerer",
+   "director": "William Friedkin",
+   "year": 1977,
+   "genre1": "Thriller",
+   "genre2": "Adventure",
+   "country": "USA",
+   "runtime": 122,
+   "poster": "https://image.tmdb.org/t/p/w342/2b7oexm173SF1FSEq0DdgxZZNRH.jpg",
+   "available": true,
+   "collections": [
+    "Criterion"
+   ]
+  },
+  {
+   "title": "Sound of Metal",
+   "director": "Darius Marder",
+   "year": 2020,
+   "genre1": "Drama",
+   "genre2": "",
+   "country": "USA",
+   "runtime": 121,
+   "poster": "https://image.tmdb.org/t/p/w342/3178oOJKKPDeQ2legWQvMPpllv.jpg",
+   "available": true,
+   "collections": [
+    "Criterion"
+   ]
+  },
+  {
+   "title": "Spaceballs",
+   "director": "Mel Brooks",
+   "year": 1987,
+   "genre1": "Sci-Fi",
+   "genre2": "Opera",
+   "country": "USA",
+   "runtime": 96,
+   "poster": "https://image.tmdb.org/t/p/w342/kNbaxEsnCyWBTfANVPHayujBsxp.jpg",
+   "available": true,
+   "collections": [
+    "Eureka"
+   ]
+  },
+  {
+   "title": "Stalker",
+   "director": "Andrei Tarkovsky",
+   "year": 1982,
+   "genre1": "Drama",
+   "genre2": "Art",
+   "country": "USSR",
+   "runtime": null,
+   "poster": "https://image.tmdb.org/t/p/w342/1qhOyf5C4s9ZdvY8d5JDx9DFMeT.jpg",
+   "available": true,
+   "collections": [
+    "Criterion",
+    "Eureka"
+   ]
+  },
+  {
+   "title": "Strange Brew",
+   "director": "Dave Thomas and Rick Moranis",
+   "year": 1983,
+   "genre1": "Comedy",
+   "genre2": "Crime",
+   "country": "Canada",
+   "runtime": 90,
+   "poster": "https://image.tmdb.org/t/p/w342/rScplcvRHX7o7XK88SFb5mddo8y.jpg",
+   "available": true,
+   "collections": []
+  },
+  {
+   "title": "Straw Dogs",
+   "director": "Sam Peckinpah",
+   "year": 1971,
+   "genre1": "Thriller",
+   "genre2": "Drama",
+   "country": "UK",
+   "runtime": 116,
+   "poster": "https://image.tmdb.org/t/p/w342/yigkfHE1OhkxPPrjrV78Y9ibGEk.jpg",
+   "available": true,
+   "collections": [
+    "Criterion",
+    "Eureka"
+   ]
+  },
+  {
+   "title": "Street Trash",
+   "director": "J. Michael Muro",
+   "year": 1987,
+   "genre1": "Horror",
+   "genre2": "",
+   "country": "USA",
+   "runtime": 100,
+   "poster": "https://image.tmdb.org/t/p/w342/vwy81HbDoSvccWvculRMUVY39dD.jpg",
+   "available": true,
+   "collections": [
+    "Eureka"
+   ]
+  },
+  {
+   "title": "Sympathy For Mr. Vengeance",
+   "director": "Park Chan-wook",
+   "year": 2002,
+   "genre1": "Neo-Noir",
+   "genre2": "Revenge",
+   "country": "Korea",
+   "runtime": 129,
+   "poster": "https://image.tmdb.org/t/p/w342/uj42ubGbgVL65T10SvPVr0p9mJc.jpg",
+   "available": true,
+   "collections": [
+    "Eureka"
+   ]
+  },
+  {
+   "title": "Tampopo",
+   "director": "Juzo Itami",
+   "year": 1987,
+   "genre1": "Comedy",
+   "genre2": "Drama",
+   "country": "Japan",
+   "runtime": 115,
+   "poster": "https://image.tmdb.org/t/p/w342/ArYdSuX3zY9fMsE4LqmBl7xJq5R.jpg",
+   "available": true,
+   "collections": [
+    "Criterion",
+    "Eureka"
+   ]
+  },
+  {
+   "title": "Terrifier 2",
+   "director": "Damien Leone",
+   "year": 2022,
+   "genre1": "Horror",
+   "genre2": "",
+   "country": "USA",
+   "runtime": 138,
+   "poster": "https://image.tmdb.org/t/p/w342/qEAlwXbYk6IHA4ztoS2XFFaa7Xo.jpg",
+   "available": true,
+   "collections": [
+    "Eureka"
+   ]
+  },
+  {
+   "title": "The Thing",
+   "director": "John Carpenter",
+   "year": 1982,
+   "genre1": "Horror",
+   "genre2": "Mystery",
+   "country": "USA",
+   "runtime": 109,
+   "poster": "https://image.tmdb.org/t/p/w342/tzGY49kseSE9QAKk47uuDGwnSCu.jpg",
+   "available": true,
+   "collections": []
+  },
+  {
+   "title": "Throne of Blood",
+   "director": "Akira Kurosawa",
+   "year": 1961,
+   "genre1": "Samurai",
+   "genre2": "Drama",
+   "country": "Japan",
+   "runtime": null,
+   "poster": "https://image.tmdb.org/t/p/w342/zaZFMNxJST0TtPd68yF7fNt1he8.jpg",
+   "available": true,
+   "collections": [
+    "Criterion",
+    "Eureka"
+   ]
+  },
+  {
+   "title": "Time Bandits",
+   "director": "Terry Gilliam",
+   "year": 1981,
+   "genre1": "Fantasy",
+   "genre2": "Adventure",
+   "country": "Britain",
+   "runtime": 116,
+   "poster": "https://image.tmdb.org/t/p/w342/4VZtpwdhHQSa4LUkvujyGAHb1hG.jpg",
+   "available": true,
+   "collections": [
+    "Criterion",
+    "Eureka"
+   ]
+  },
+  {
+   "title": "The Tin Drum",
+   "director": "Volker Schlöndorff",
+   "year": 1979,
+   "genre1": "Drama",
+   "genre2": "",
+   "country": "France",
+   "runtime": 162,
+   "poster": "https://image.tmdb.org/t/p/w342/z4QsBWJbbBxct2zU7LnYSOw8UFz.jpg",
+   "available": true,
+   "collections": [
+    "Criterion"
+   ]
+  },
+  {
+   "title": "Tokyo Story",
+   "director": "Yasujirō Ozu",
+   "year": 1971,
+   "genre1": "Romance",
+   "genre2": "Drama",
+   "country": "Japan",
+   "runtime": 94,
+   "poster": "https://image.tmdb.org/t/p/w342/pPQFw7HojNLJsqL0L53KYS7vpwP.jpg",
+   "available": true,
+   "collections": [
+    "Criterion",
+    "Eureka"
+   ]
+  },
+  {
+   "title": "A Touch of Zen",
+   "director": "King Hu",
+   "year": 1970,
+   "genre1": "Action",
+   "genre2": "Adventure",
+   "country": "Hong Kong",
+   "runtime": 180,
+   "poster": "https://image.tmdb.org/t/p/w342/pgveqayMFUIZbFqN87ghiKmmxt3.jpg",
+   "available": true,
+   "collections": [
+    "Criterion"
+   ]
+  },
+  {
+   "title": "Trainspotting",
+   "director": "Danny Boyle",
+   "year": 1996,
+   "genre1": "Drama",
+   "genre2": "Crime",
+   "country": "UK",
+   "runtime": 94,
+   "poster": "https://image.tmdb.org/t/p/w342/1jUC02qsqS2NxBMFarbIhcQtazV.jpg",
+   "available": true,
+   "collections": [
+    "Criterion"
+   ]
+  },
+  {
+   "title": "Tree of Life",
+   "director": "Terrence Malick",
+   "year": 2011,
+   "genre1": "Coming of Age",
+   "genre2": "Art",
+   "country": "USA",
+   "runtime": 139,
+   "poster": "https://image.tmdb.org/t/p/w342/l8cwuB5WJSoj4uMAsnzuHBOMaSJ.jpg",
+   "available": true,
+   "collections": [
+    "Eureka"
+   ]
+  },
+  {
+   "title": "Troll 2",
+   "director": "Claudio Fragasso",
+   "year": 1990,
+   "genre1": "Horror",
+   "genre2": "Cult",
+   "country": "USA",
+   "runtime": 95,
+   "poster": "https://image.tmdb.org/t/p/w342/eFth6zw4PEInzr2Y64mYVN1zbBi.jpg",
+   "available": true,
+   "collections": [
+    "Eureka"
+   ]
+  },
+  {
+   "title": "True Grit",
+   "director": "Joel Coen and Ethan Coen",
+   "year": 2010,
+   "genre1": "Western",
+   "genre2": "Revenge",
+   "country": "USA",
+   "runtime": 110,
+   "poster": "https://image.tmdb.org/t/p/w342/tCrB8pcjadZjsDk7rleGJaIv78k.jpg",
+   "available": true,
+   "collections": [
+    "Eureka"
+   ]
+  },
+  {
+   "title": "Twin Peaks: Fire Walk with Me",
+   "director": "David Lynch",
+   "year": 1992,
+   "genre1": "Drama",
+   "genre2": "Mystery",
+   "country": "USA",
+   "runtime": 135,
+   "poster": "https://image.tmdb.org/t/p/w342/mxsGXqetGnirf99qapYd5MMY1VL.jpg",
+   "available": true,
+   "collections": [
+    "Criterion"
+   ]
+  },
+  {
+   "title": "Twisted Pair",
+   "director": "Neil Breen",
+   "year": 2018,
+   "genre1": "Thriller",
+   "genre2": "Sci-Fi",
+   "country": "USA",
+   "runtime": 88,
+   "poster": "https://image.tmdb.org/t/p/w342/xiPOh9yTEhyW33z5yjDNT0QmEwA.jpg",
+   "available": true,
+   "collections": []
+  },
+  {
+   "title": "Uncut Gems",
+   "director": "Benny Safdie, Josh Safdie",
+   "year": 2019,
+   "genre1": "Crime",
+   "genre2": "Thriller",
+   "country": "USA",
+   "runtime": 136,
+   "poster": "https://image.tmdb.org/t/p/w342/6XN1vxHc7kUSqNWtaQKN45J5x2v.jpg",
+   "available": true,
+   "collections": [
+    "Criterion",
+    "Eureka"
+   ]
+  },
+  {
+   "title": "Valley Of The Dolls",
+   "director": "Mark Robson",
+   "year": 1967,
+   "genre1": "Drama",
+   "genre2": "Romance",
+   "country": "USA",
+   "runtime": 123,
+   "poster": "https://image.tmdb.org/t/p/w342/hQgsWkNTL8GJloJRzqonImIaIJb.jpg",
+   "available": true,
+   "collections": [
+    "Criterion",
+    "Eureka"
+   ]
+  },
+  {
+   "title": "Videodrome",
+   "director": "David Cronenberg",
+   "year": 1983,
+   "genre1": "Sci-Fi",
+   "genre2": "Horror",
+   "country": "USA",
+   "runtime": 88,
+   "poster": "https://image.tmdb.org/t/p/w342/qqqkiZSU9EBGZ1KiDmfn07S7qvv.jpg",
+   "available": true,
+   "collections": [
+    "Criterion",
+    "Eureka"
+   ]
+  },
+  {
+   "title": "The Wailing",
+   "director": "Na Hong-jin",
+   "year": 2016,
+   "genre1": "Horror",
+   "genre2": "Mystery",
+   "country": "South Korea",
+   "runtime": 156,
+   "poster": "https://image.tmdb.org/t/p/w342/lWE9ih9qgjx8HatYboP7fG0nri.jpg",
+   "available": true,
+   "collections": []
+  },
+  {
+   "title": "WALL·E's Treasures & Trinkets",
+   "director": "Andrew Stanton",
+   "year": 2008,
+   "genre1": "Animation",
+   "genre2": "",
+   "country": "USA",
+   "runtime": 5,
+   "poster": null,
+   "available": true,
+   "collections": [
+    "Criterion"
+   ]
+  },
+  {
+   "title": "Waltz with Bashir",
+   "director": "Ari Folman",
+   "year": 2008,
+   "genre1": "Animation",
+   "genre2": "Documentary",
+   "country": "Australia",
+   "runtime": 90,
+   "poster": "https://image.tmdb.org/t/p/w342/zQaCv7lKwHsh0YSHkt1QNjIOZ1c.jpg",
+   "available": true,
+   "collections": []
+  },
+  {
+   "title": "Watchmen",
+   "director": "Zack Snyder",
+   "year": 2009,
+   "genre1": "Mystery",
+   "genre2": "Action",
+   "country": "USA",
+   "runtime": 163,
+   "poster": "https://image.tmdb.org/t/p/w342/aVURelN3pM56lFM7Dgfs5TixcIf.jpg",
+   "available": true,
+   "collections": []
+  },
+  {
+   "title": "Waterloo",
+   "director": "Sergei Bondarchuk",
+   "year": 1970,
+   "genre1": "War",
+   "genre2": "Historic",
+   "country": "Russia",
+   "runtime": 134,
+   "poster": "https://image.tmdb.org/t/p/w342/zd4SV3qs5Xg7Yl8kqshU2fxTT0D.jpg",
+   "available": true,
+   "collections": [
+    "Eureka"
+   ]
+  },
+  {
+   "title": "Wild Strawberries",
+   "director": "Ingmar Bergman",
+   "year": 1959,
+   "genre1": "Drama",
+   "genre2": "Art",
+   "country": "Sweden",
+   "runtime": 91,
+   "poster": "https://image.tmdb.org/t/p/w342/iyTD2QnySNMPUPE3IedZQipSWfz.jpg",
+   "available": true,
+   "collections": [
+    "Criterion",
+    "Eureka"
+   ]
+  },
+  {
+   "title": "Zeriam",
+   "director": "Keita Amemiya",
+   "year": 1991,
+   "genre1": "Cult",
+   "genre2": "Horror",
+   "country": "Japan",
+   "runtime": null,
+   "poster": null,
+   "available": true,
+   "collections": [
+    "Eureka"
+   ]
+  }
+ ]
+}
