@@ -1,20 +1,8 @@
 {
- "updated": "2026-11-02T02:46:18+00:00",
- "count": 211,
- "available_count": 206,
+ "updated": "2026-11-02T02:53:32+00:00",
+ "count": 210,
+ "available_count": 205,
  "films": [
-  {
-   "title": "The &#x27;Burbs",
-   "director": "Joe Dante",
-   "year": 1989,
-   "genre1": "Comedy",
-   "genre2": "Horror",
-   "country": "USA",
-   "runtime": 102,
-   "poster": null,
-   "available": true,
-   "collections": []
-  },
   {
    "title": "12 Angry Men",
    "director": "Sidney Lumet",
@@ -333,6 +321,18 @@
    "collections": []
   },
   {
+   "title": "The Burbs",
+   "director": "Joe Dante",
+   "year": 1989,
+   "genre1": "Comedy",
+   "genre2": "Horror",
+   "country": "USA",
+   "runtime": 102,
+   "poster": "https://image.tmdb.org/t/p/w342/jwYKzJS0C3A711hmg1G4ptI0InF.jpg",
+   "available": true,
+   "collections": []
+  },
+  {
    "title": "Burning",
    "director": "Lee Chang-Dong",
    "year": 2018,
@@ -509,20 +509,6 @@
    "poster": "https://image.tmdb.org/t/p/w342/pgtQceTZKylB2B237t18h2pOXpE.jpg",
    "available": true,
    "collections": []
-  },
-  {
-   "title": "Dawn of the Dead",
-   "director": "Zack Snyder",
-   "year": 2004,
-   "genre1": "Horror",
-   "genre2": "Sci-Fi",
-   "country": "USA",
-   "runtime": 101,
-   "poster": "https://image.tmdb.org/t/p/w342/ttquyxStEEctzghtA2f4PUGprDr.jpg",
-   "available": true,
-   "collections": [
-    "Eureka"
-   ]
   },
   {
    "title": "Dawn of the Dead",
