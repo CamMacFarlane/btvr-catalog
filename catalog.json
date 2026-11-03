@@ -1,5 +1,5 @@
 {
- "updated": "2026-11-02T06:46:54+00:00",
+ "updated": "2026-11-03T03:17:34+00:00",
  "count": 205,
  "available_count": 200,
  "films": [
@@ -696,13 +696,13 @@
    ]
   },
   {
-   "title": "Dinner In America",
-   "director": "tbd",
-   "year": 2024,
-   "genre1": "Documentary",
-   "genre2": "",
-   "country": "",
-   "runtime": null,
+   "title": "Dinner in America",
+   "director": "Adam Rehmeier",
+   "year": 2022,
+   "genre1": "Romance",
+   "genre2": "Comedy",
+   "country": "USA",
+   "runtime": 108,
    "poster": "https://image.tmdb.org/t/p/w342/t63UhnHaWQGcuE3pViuW3LSjBJj.jpg",
    "available": true,
    "collections": []
